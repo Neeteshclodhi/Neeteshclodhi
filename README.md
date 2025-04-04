@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning data structure and algorithm
 - 💞️ I’m looking to collaborate on projects of react
-- 📫 How to reach me neeteshlodhi@9555gmail.com
+  
   
 
 
